@@ -1,0 +1,62 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/.apt_generated/
+/.classpath
+/.factorypath
+/.project
+/.settings/
+/.springBeans
+/target/
+/.gitignore
+/user-profile-analysis.iml
+/.idea
+/README.md
+.DS_Store
+
+# cally *NIX text editors, by default, append '~' to files on saving to make backups
+*~
+
+# Build output directies
+target/
+build/
+lib/
+classes/
+MANIFEST.MF
+
+# IntelliJ specific files/directories
+out/
+.idea/
+*.ipr
+*.iws
+*.iml
+atlassian-ide-plugin.xml
+
+# Eclipse specific files/directories
+.classpath
+.project
+.settings/
+.metadata/
+bin/
+
+# NetBeans specific files/directories
+.nbattrs
+
+# Miscellaneous
+*.log
+*.swp
+.clover
+.DS_Store
+
+# Profiler and heap dumps
+*.jps
+*.hprof
+.nb-gradle/
+
+
