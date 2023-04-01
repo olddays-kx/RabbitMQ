@@ -17,7 +17,7 @@ import java.util.concurrent.TimeoutException;
  */
 public class DirectProducer {
 
-    public final static String EXCHANGE_NAME = "direct_logs";
+    public final static String EXCHANGE_NAME = "direct_kx";
     public static void main(String[] args) throws IOException, TimeoutException {
         //创建连接工厂到rabbit
         ConnectionFactory connectionFactory = new ConnectionFactory();

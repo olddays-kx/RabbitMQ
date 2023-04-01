@@ -12,7 +12,7 @@ import java.util.concurrent.TimeoutException;
  * @Version 1.0
  */
 
-public class NormalCusmer {
+public class NormalConsumer {
     public static void main(String[] args) throws IOException, TimeoutException {
         //创建连接工厂到rabbit
         ConnectionFactory connectionFactory = new ConnectionFactory();
